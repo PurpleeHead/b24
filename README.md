@@ -1,14 +1,16 @@
 # AI-Assisted Marketing Landing Page — Bitrix24-Inspired Concept
 
-An independent marketing landing page concept inspired by the Bitrix24 product ecosystem. Built with HTML, CSS, vanilla JavaScript, and AI-assisted development.
+An independent marketing landing page inspired by the Bitrix24 product ecosystem. Built with HTML, CSS, vanilla JavaScript, and AI-assisted development.
 
-The project demonstrates responsive layout implementation, interactive UI components, basic form validation, and manual verification of AI-generated code.
+The project demonstrates responsive frontend development, interactive UI components, conditional quiz logic, form validation, and manual review of AI-generated code.
 
 **This is an independent portfolio project. It is not affiliated with or endorsed by Bitrix24.**
 
 ## Live Demo
 
-Coming soon — GitHub Pages deployment.
+https://purpleehead.github.io/b24/
+
+*The demo will be available after GitHub Pages deployment is completed.*
 
 ## Features
 
@@ -16,7 +18,7 @@ Coming soon — GitHub Pages deployment.
 - Interactive quiz with conditional recommendation logic
 - Form validation and demo lead submission flow
 - Mobile navigation
-- Responsive layouts for mobile and desktop screens
+- Responsive layouts for desktop and mobile screens
 - Semantic HTML and basic accessibility considerations
 - No frameworks, build tools, or external JavaScript dependencies
 
@@ -49,7 +51,7 @@ No installation or build step is required.
    git clone https://github.com/PurpleeHead/b24.git
    ```
 
-2. Open the project folder.
+2. Open the project directory.
 3. Open `index.html` in your browser.
 
 For a more reliable local preview, use the Live Server extension in Visual Studio Code.
@@ -80,26 +82,17 @@ The prompts used during development are documented in [`PROMPTS.md`](PROMPTS.md)
 
 ## Limitations
 
-This is a front-end demonstration, not a production-ready lead-generation system.
-
-- Form submissions are not connected to a backend or CRM.
-- No lead data is sent to a server.
-- A production version would require appropriate privacy disclosures and consent handling.
-- Content, branding, accessibility, and cross-browser behavior would need further review before commercial use.
-
-## Potential Improvements
-
-- Connect the form to a backend or CRM
-- Add comprehensive accessibility and cross-browser testing
-- Improve form feedback and error handling
-- Optimize performance and asset loading
-- Add automated tests for interactive components
+This is a frontend demonstration project. The lead submission flow is not connected to a production backend or CRM.
 
 ## Author
 
-**Artem Kutelev** — Junior Frontend Developer
+**Artem Kutelev** — Frontend Developer
 
 - Portfolio: https://purpleehead.github.io/portfolio/
 - GitHub: https://github.com/PurpleeHead
 - Telegram: https://t.me/art_alberto
 - Email: purpleehead@gmail.com
+
+## License
+
+Created for portfolio and educational purposes.
